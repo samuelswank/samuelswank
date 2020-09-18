@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I'm Samuel. 👋
 
 <!--
 **shengjiyang/shengjiyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```python
+class Samuel:
+    def __init__(self, username="shengjiyang", year=2020):
+        self.username = username
+        self.name = 'Samuel Adam Swank'
+        self.education = {
+            'programming': ('Data Science', 'Lambda School'),
+        }
+        self.employment = {
+            'desired' : {
+            'company' : 'Your Company',
+            'role' : 'Data Scientist'
+            }
+            'current': {
+            'company' : 'FedEx Ground',
+            'role' : 'Operations Administrator'
+            }
+        }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Samuel = Samuel(2020)
+```
