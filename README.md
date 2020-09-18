@@ -18,7 +18,8 @@ class Samuel:
             "Heroku",
             "AWS",
             "Elastic Beanstalk",
-            "Git + GitHub"
+            "Git + GitHub",
+            "Mandarin"
       ]
         
         self.education = {
@@ -29,12 +30,19 @@ class Samuel:
             'desired' : {
                 'company' : 'Your Company',
                 'role' : 'Data Scientist'
-            }
+            },
             'current': {
             'company' : 'FedEx Ground',
             'role' : 'Operations Administrator'
             }
         }
+        
+    def __str__(self):
+        introduction = """
+        Aspiring Data Scientist and ameteur philologist with a background in econometrics.
+        Absolutely loves Star Trek and the Greek philosophy which inspired it.
+        Runs every morning and needs to start hiking and swimming again.
+        """
         
     def learn(self, new_skill):
         self.skills.append(new_skill)
