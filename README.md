@@ -1,9 +1,5 @@
 ### Hi, I'm Samuel. 👋
 
-<!--
-**shengjiyang/shengjiyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
-
 ```python
 class Samuel:
     def __init__(self, username="shengjiyang", year=2020):
