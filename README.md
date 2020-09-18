@@ -40,6 +40,7 @@ class Samuel:
     def __str__(self):
         description = """
         Aspiring Data Scientist and ameteur philologist with a background in econometrics.
+        Jesus boy:)
         Absolutely loves Star Trek and the Greek philosophy which inspired it.
         Runs every morning and needs to start hiking and swimming again.
         """
