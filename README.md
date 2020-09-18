@@ -38,7 +38,6 @@ class Samuel:
         
     def learn(self, new_skill):
         self.skills.append(new_skill)
-        
 
 Samuel = Samuel(2020)
 ```
