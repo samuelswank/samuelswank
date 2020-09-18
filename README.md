@@ -53,5 +53,7 @@ Samuel = Samuel(2020)
 ```
 
 Portfolio : [Samuel Swank](https://shengjiyang.github.io/)
+
 Medium : [Samuel Swank](https://medium.com/@samswank)
+
 LinkedIn : [Samuel Swank](https://www.linkedin.com/in/samuel-swank/)
