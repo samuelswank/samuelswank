@@ -20,7 +20,7 @@ class Samuel:
             "Elastic Beanstalk",
             "Git + GitHub",
             "Mandarin"
-      ]
+        ]
         
         self.education = {
             'programming': ('Data Science', 'Lambda School'),
