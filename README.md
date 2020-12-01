@@ -8,16 +8,19 @@ class Samuel:
         
         self.skills = [
             "Python",
-            "NumPy + SciPy",
+            "R language",
+            "SQL",
             "Pandas",
+            "MatplotLib",
             "scikit-learn",
-            "xgboost",
-            "TensorFlow",
+            "NumPy + SciPy",
+            "tidyverse",
+            "FastAPI",
             "Flask",
-            "FastAPI"
-            "Heroku",
-            "AWS",
-            "Elastic Beanstalk",
+            "AWS Elastic Beanstalk",
+            "shiny",
+            "Amazon RDS",
+            "Linux Bash Shell",
             "Git + GitHub",
             "Mandarin"
         ]
