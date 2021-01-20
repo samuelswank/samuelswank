@@ -17,6 +17,7 @@ class Samuel:
             "tidyverse",
             "FastAPI",
             "Flask",
+            "shiny",
             "AWS Elastic Beanstalk",
             "shiny",
             "Amazon RDS",
