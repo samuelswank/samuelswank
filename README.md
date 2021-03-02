@@ -19,7 +19,6 @@ class Samuel:
             "Flask",
             "shiny",
             "AWS Elastic Beanstalk",
-            "shiny",
             "Amazon RDS",
             "Linux Bash Shell",
             "Git + GitHub",
